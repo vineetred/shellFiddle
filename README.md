@@ -6,3 +6,8 @@ NOTE: Don't forget to give rw permissions to the shell scripts. Otherwise the sc
 ```
 chmod 755 ./1.1_randomNumber.sh
 ```
+
+It should then look like this:
+
+![alt text](https://i.imgur.com/uGBVSi0.png)
+
