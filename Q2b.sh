@@ -1,1 +1,1 @@
-sed -i ".bak" "s/apple/orange/g" apple.txt
+sed -i ".bak" "s/apple/lemon/3" q2a.txt

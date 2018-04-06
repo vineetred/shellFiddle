@@ -1,2 +1,3 @@
 #!/bin/sh
-echo Hello World
+
+sed -i ".bak" "s/\./,/g" testing.txt
